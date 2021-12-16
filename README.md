@@ -1,2 +1,2 @@
-# GtkHMI
-Open Source Human-Machine Interface (HMI) for connecting to industrial controllers (PLCs)
+# GtkEditFixedLayoutDemo
+A simple demo to show how to use mouse events to "grab" widgets and move or align them on a fixed layout
